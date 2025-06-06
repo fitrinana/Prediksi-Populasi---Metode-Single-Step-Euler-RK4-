@@ -27,4 +27,4 @@ Masukkan parameter prediksi → klik tombol hitung → lihat hasilnya.
 📚 Tujuan Pembelajaran
 Memahami konsep metode numerik dalam konteks dunia nyata.
 Menerapkan metode single step untuk menyelesaikan persamaan diferensial.
-
+# Percobaan untuk dapatkanmu
